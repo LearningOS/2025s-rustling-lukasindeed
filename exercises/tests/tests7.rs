@@ -34,9 +34,12 @@
 // Execute `rustlings hint tests7` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
 
-fn main() {}
+
+fn main() {
+    // This is a placeholder for the build script. The actual logic should be
+    // implemented in the `build.rs` file.
+}
 
 #[cfg(test)]
 mod tests {
